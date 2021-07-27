@@ -61,8 +61,8 @@ jobs:
           cp -r deploy/.git deploy/CNAME deploy/README.md build/
       - name: Configure git
         run: |
-          git config --global user.email "berlin@techlabs.org"
-          git config --global user.name "TechLabs Berlin GitHub Workflow"
+          git config --global user.email "ms@techlabs.org"
+          git config --global user.name "TechLabs Muenster GitHub Workflow"
       - name: Commit deploy repo
         run: |
           git add --all --force .
