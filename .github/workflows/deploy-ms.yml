@@ -55,10 +55,6 @@ jobs:
         with:
           name: build
           path: build
-
-      - name: Copy frontend build to deploy repo
-        run: |
-          cp -r deploy/.git deploy/CNAME deploy/README.md build/
       - name: Configure git
         run: |
           git config --global user.email "ms@techlabs.org"
