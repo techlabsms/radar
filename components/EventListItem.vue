@@ -33,8 +33,8 @@
 
         <div>
           <p class="text-lg text-center">
-            {{ verb }} place on
-            {{ format(eventDate, "MMMM do, 'at' h:mm aaaa") }}
+            {{ verb }} statt:
+            {{ format(eventDate, "dd.MM, 'um' h:mm aaaa") }}
           </p>
         </div>
       </header>
@@ -54,12 +54,12 @@
         >
           <EventListItemResourceList
             :resources="tlEvent.meetings"
-            title="Meeting Rooms"
+            title="Meetings"
           />
         </template>
         <template v-else-if="isCurrentEvent">
           <p class="italic text-center text-gray-400">
-            Other event links will be posted soon!
+            Weitere Event-links werden in Kürze veröffentlicht!!
           </p>
         </template>
         <template
@@ -68,12 +68,12 @@
           <EventListItemResourceList
             v-if="tlEvent.forms && tlEvent.forms.length"
             :resources="tlEvent.forms"
-            title="Forms"
+            title="Umfragen"
           />
           <EventListItemResourceList
             v-if="tlEvent.resources && tlEvent.resources.length"
             :resources="tlEvent.resources"
-            title="Resources"
+            title="Ressourcen"
           />
         </template>
       </aside>
@@ -117,9 +117,9 @@ export default defineComponent({
     )
 
     const verb = computed(() => {
-      if (isLive.value) return 'Taking'
-      if (isPastDate.value) return 'Took'
-      return 'Takes'
+      if (isLive.value) return 'Findet gerade'
+      if (isPastDate.value) return 'Fand'
+      return 'Findet'
     })
 
     return {

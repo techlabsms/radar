@@ -2,7 +2,7 @@
   <main>
     <div class="space-y-4 lg:mx-auto lg:max-w-2xl">
       <NuxtLink to="/" class="text-gray-500 hover:text-gray-700"
-        ><TIcon icon="chevron-left" class="inline-block" /> Back to the
+        ><TIcon icon="chevron-left" class="inline-block" /> Zurück zum
         Timeline</NuxtLink
       >
 
