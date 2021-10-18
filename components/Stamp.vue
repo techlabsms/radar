@@ -22,7 +22,7 @@ export default defineComponent({
 
     const text = computed(() => {
       if (isLive.value) return 'live!'
-      if (isTodayDate.value) return 'today!'
+      if (isTodayDate.value) return 'Heute!'
       return 'next'
     })
     const classNames = computed(() => {

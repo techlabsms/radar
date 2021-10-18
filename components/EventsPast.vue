@@ -13,7 +13,7 @@
       </ul>
     </template>
     <div v-else>
-      <p>No Past Events.</p>
+      <p>Keine vergangenen Events.</p>
     </div>
   </div>
 </template>

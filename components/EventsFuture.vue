@@ -5,7 +5,7 @@
         <div
           class="flex space-x-4 text-gray-500 focus:outline-none active:outline-none"
         >
-          <p class="text-center">Future Events</p>
+          <p class="text-center">zukünftigen Events</p>
           <p class="text-center">
             <TIcon icon="chevron-down" class="inline-block" />
           </p>
@@ -18,7 +18,7 @@
       </ul>
     </template>
     <div v-else>
-      <p>No Future Events :(</p>
+      <p>Keine zukünftigen Events :(</p>
     </div>
   </div>
 </template>
