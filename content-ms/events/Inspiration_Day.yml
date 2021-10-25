@@ -1,12 +1,12 @@
 ---
-:title: Inspiration Day
-:description: 'An diesem Tag kannst du ordentlich Inspiration für deine Projektphase
+title: Inspiration Day
+description: 'An diesem Tag kannst du ordentlich Inspiration für deine Projektphase
   bei TechLabs tanken. Die Techies des vorherigen Semesters werden dir ihre spannenden
   Projekte vorstellen. Das Highlight: Am Ende des Abends wird das beste Projekt mit
   dem Digital Shaper Award ausgezeichnet.'
-:date: '2021-10-27T19:00:00+00:00'
-:meeting:
-  :title: Inspiration Day
-  :description: The main room where we will meet.
-  :type: meeting
-  :url: https://wwu.zoom.us/j/63474847959?pwd=NkZUVEZwS3RlNWRaVW9uT3ZJRFNYZz09
+date: '2021-10-27T19:00:00+00:00'
+meeting:
+  title: Inspiration Day
+  description: The main room where we will meet.
+  type: meeting
+  url: https://wwu.zoom.us/j/63474847959?pwd=NkZUVEZwS3RlNWRaVW9uT3ZJRFNYZz09
