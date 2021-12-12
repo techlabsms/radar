@@ -6,20 +6,20 @@ timeline:
   - title: ONBOARDING
     description: |
       Onboarding
-    startDate: 2021/10/16
-    endDate: 2021/10/19
+    startDate: 2021/10/18
+    endDate: 2021/10/24
 
   - title: ONLINE LEARNING
     description: |
       You work through your track on edyoucated and become a master of your class.
       We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties..
-    startDate: 2021/10/20
-    endDate: 2021/11/16
+    startDate: 2021/10/25
+    endDate: 2021/11/14
 
   - title: IDEATION
     description: |
       Ideation
-    startDate: 2021/11/17
+    startDate: 2021/11/15
     endDate: 2021/11/28
 
   - title: PROJECT MANAGEMENT
@@ -33,4 +33,8 @@ timeline:
       You team up as a group of 4-6 Techies and work together to create something big. Experienced mentors will be on your side for support.
     startDate: 2021/12/27
     endDate: 2022/03/20
-
+  - title: Closing
+    description: |
+      You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will be given your Digital Shaper Certificate.
+    startDate: 2022/03/21
+    endDate: 2022/04/03
