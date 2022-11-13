@@ -1,3 +1,5 @@
+<!-- ATTENTION: This code is currently not needed. If a Hamburger NAV should be integrated change the filename from HeaderNAV.txt to HeaderNAV.vue -->
+
 <template>
   <div class="relative">
     <transition name="fade">
