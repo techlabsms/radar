@@ -5,7 +5,7 @@
       is_public: true
     - title: FAQ
       path: /faq
-      is_public: true
+      is_public: false
     - title: Newsletter
       path: /newsletter
-      is_public: true
+      is_public: false
