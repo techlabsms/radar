@@ -1,0 +1,45 @@
+# dates: always start the week on a Monday and end it on a Sunday
+---
+startsAt: 0
+timeline:
+  # - title: BEWERBUNG (Endet am 30.10)
+  #   description: | 
+  #     Bewerbung (Endet am 30.10)
+  #   startDate: 2022/09/17
+  #  endDate: 2022/10/30
+
+  - title: ONBOARDING
+    description: |
+      Onboarding
+    startDate: 2022/10/31
+    endDate: 2022/11/06
+
+  - title: ONLINE LEARNING & Ideation
+    description: |
+      You work through your track on edyoucated and become a master of your class.
+      We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties..
+    startDate: 2022/11/07
+    endDate: 2022/12/11
+
+  # - title: IDEATION
+  #   description: |
+  #     Ideation
+  #   startDate: 2022/04/25
+  #   endDate: 2022/06/05
+
+  # - title: PROJECT MANAGEMENT
+  #   description: |
+  #     Project Management
+  #   startDate: 2022/05/02
+  #   endDate: 2022/06/05
+
+  - title: PROJECT PHASE
+    description: |
+      You team up as a group of 4-6 Techies and work together to create something big. Experienced mentors will be on your side for support.
+    startDate: 2022/12/12
+    endDate: 2023/04/02
+  # - title: Closing
+  #   description: |
+  #     You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will be given your Digital Shaper Certificate.
+  #   startDate: 2022/03/21
+  #   endDate: 2022/04/03
