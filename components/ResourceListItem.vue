@@ -35,7 +35,7 @@ export default defineComponent({
   },
   setup() {
     const icons = {
-      meeting: 'video',
+      meeting: 'location',
       form: 'comment-dots',
       slides: 'images',
       video: 'youtube',
