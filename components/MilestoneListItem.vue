@@ -70,14 +70,14 @@ export default defineComponent({
               class="px-2 py-1 text-sm font-semibold tracking-wide text-pink-900 uppercase border-2 border-pink-900 rounded-lg focus:outline-none active:outline-none"
               @click="toggleTasks"
             >
-              <TIcon icon="eye-slash" class="inline-block" /> Hide tasks
+              <TIcon icon="eye-slash" class="inline-block" /> Schliessen
             </button>
             <button
               v-else
               class="px-2 py-1 text-sm font-semibold tracking-wide text-pink-900 uppercase border-2 border-pink-900 rounded-lg focus:outline-none active:outline-none"
               @click="toggleTasks"
             >
-              <TIcon icon="chevron-down" class="inline-block" /> Show tasks
+              <TIcon icon="chevron-down" class="inline-block" /> Typeform
             </button>
           </p>
           <ul v-if="showTasks || alwaysShowTasks" class="space-y-8 text-lg">
