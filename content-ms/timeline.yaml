@@ -8,17 +8,17 @@ timeline:
   #   startDate: 2022/09/17
   #  endDate: 2022/10/30
 
-  - title: ORIENTIERUNG, TRACKWAHL & ONBOARDING
+  - title: ORIENTIERUNG, ONBOARDING & TRACKWAHL
     description: |
       Onboarding
     startDate: 2023/04/24
-    endDate: 2023/05/14
+    endDate: 2023/05/07
 
   - title: ONLINE LEARNING
     description: |
       You work through your track on edyoucated and become a master of your class.
       We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties..
-    startDate: 2023/05/15
+    startDate: 2023/05/08
     endDate: 2023/06/04
 
   # - title: IDEATION
