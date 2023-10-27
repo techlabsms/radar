@@ -11,15 +11,15 @@ timeline:
   - title: ORIENTIERUNG, ONBOARDING & TRACKWAHL
     description: |
       Onboarding
-    startDate: 2023/04/24
-    endDate: 2023/05/07
+    startDate: 2023/10/23
+    endDate: 2023/11/05
 
   - title: ONLINE LEARNING
     description: |
       You work through your track on edyoucated and become a master of your class.
       We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties..
-    startDate: 2023/05/08
-    endDate: 2023/06/04
+    startDate: 2023/11/06
+    endDate: 2023/12/10
 
   # - title: IDEATION
   #   description: |
@@ -36,8 +36,8 @@ timeline:
   - title: PROJEKTPHASE
     description: |
       You team up as a group of 4-6 Techies and work together to create something big. Experienced mentors will be on your side for support.
-    startDate: 2023/06/05
-    endDate: 2023/09/01
+    startDate: 2023/12/11
+    endDate: 2024/03/10
   # - title: Closing
   #   description: |
   #     You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will be given your Digital Shaper Certificate.
